@@ -1,0 +1,16 @@
+{
+  "achievement-page-title": "Logros",
+  "achievement-page-description": "La lista de logros del juego Extortion en Steam.",
+  "chapter_index": "Capítulo %number%",
+  "achievement_in_story": "Se desbloquea siguiendo la historia.",
+  "achievement_exclusive_with": "Esto no puede hacerse en la misma partida que \"%achievementname%\".",
+  "servers-page-title": "Servidores",
+  "servers-page-description": "La lista de servidores del juego Extortion en Steam.",
+  "servers-page-table-ip-address": "Dirección IP",
+  "servers-page-table-username": "Nombre de usuario",
+  "servers-page-table-password": "Contraseña",
+  "servers-page-table-firewall": "Firewall",
+  "servers-page-table-firewall-none": "Ninguno",
+  "servers-page-table-firewall-reset-time-strict": "Se reactiva al cabo de %duration% segundos.",
+  "servers-page-table-firewall-reset-time-random": "Se reactiva de nuevo entre %min% y %max% segundos."
+}

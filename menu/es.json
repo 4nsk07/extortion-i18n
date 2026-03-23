@@ -1,0 +1,24 @@
+{
+  "new_game": "Nueva partida",
+  "continue_game": "Continuar partida",
+  "settings": "Ajustes",
+  "credits": "Créditos",
+  "wiki": "Wiki",
+  "quit_game": "Salir del juego",
+  "sound": "Sonido",
+  "music": "Música",
+  "scale": "Escala",
+  "menu_back": "Volver al menú",
+  "settings-translations-link": "Participar en las traducciones",
+
+  "save_list": "Lista de partidas",
+  "no_save": "No hay partidas guardadas",
+  "last_played": "Última partida",
+  "delete-save-title": "Eliminar partida",
+  "delete-save-message": "¿Seguro que quieres eliminar esta partida? Se perderá para siempre (y eso es mucho tiempo)",
+  "yes": "Sí",
+  "no": "No",
+
+  "fullscreen": "Pantalla completa",
+  "windowed": "Modo ventana"
+}
